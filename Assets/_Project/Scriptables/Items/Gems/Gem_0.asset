@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1378f67020ca3c542a00fb12e04e6e85, type: 3}
+  m_Name: Gem_0
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: a5e35bb24a2d7424ea906c21c100cb42, type: 3}
+  itemName: Fire Gem
+  itemID: 0
+  itemType: 2
+  itemTier: 0
+  uniqueItemID: 
+  isStackable: 1
+  itemDescription: Funny gems goes *crakle crakle*
+  inWorldVersion: {fileID: 8692829318939955473, guid: e3f9a6efd5995ae42838566a0927b605,
+    type: 3}
+  _serializedItem: 
+  abilityWarmUpFX: {fileID: 0}
+  abilityCastFX: {fileID: 0}
+  abiltyAnimation: Spell Cast
+  maxEnergy: 0
+  currentEnergy: 0
+  isEquiped: 0
+  gemType: 0
+  gemQuality: 0
+  abilityDescription: Imbues a weapon with the Fire element, it can also be used
+    on its own or through a channeler.

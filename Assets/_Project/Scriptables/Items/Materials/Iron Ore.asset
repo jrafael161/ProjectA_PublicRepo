@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bde1ae9f5a52d894291220706aa9968f, type: 3}
+  m_Name: Iron Ore
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: ab8d8373611fa7b4d8ebdb96ad33945c, type: 3}
+  itemName: Iron Ore
+  itemID: 4
+  itemType: 5
+  itemTier: 0
+  uniqueItemID: 
+  isStackable: 1
+  itemDescription: A piece of iron ore, can be melted to use as a material for weapon
+    casting and forging.
+  inWorldVersion: {fileID: 1036867908479847570, guid: 5117dea202c6d174ebcf6a18c480cde9,
+    type: 3}
+  _serializedItem: 

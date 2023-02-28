@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 54d49a82ed3676e48ae0f3c7c67113a9, type: 3}
+  m_Name: Dummy
+  m_EditorClassIdentifier: 
+  enemyName: Dummy
+  enemyAttribute: 18
+  enemyWeaponProficiency: 0
+  enemyHandedness: 0
+  enemyLevel: 1
+  enemyExp: 10
+  healthLevel: 1
+  staminaLevel: 1
+  strenghtLevel: 1
+  agilityLevel: 1
+  dexterityLevel: 1
+  inteligence: 1
+  elementalControl: 1
+  staminaRegenRate: 20
+  RightHandWeapon: {fileID: 11400000, guid: e49a40e314496a341a1a70237010ac80, type: 2}
+  LeftHandWeapon: {fileID: 11400000, guid: e8099212e3b0f9f4ea96c97f6190043f, type: 2}
+  startingState: {fileID: 0}
+  possibleAIStates:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  dropTable:
+  - itemDrop: {fileID: 11400000, guid: e49a40e314496a341a1a70237010ac80, type: 2}
+    dropPercentage: 100

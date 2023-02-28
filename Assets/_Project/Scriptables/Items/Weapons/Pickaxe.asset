@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43adda39df24f6648ae616d6d8655d56, type: 3}
+  m_Name: Pickaxe
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 789d2190345db0445aa7f7f1458499b1, type: 3}
+  itemName: Pickaxe
+  itemID: 6
+  itemType: 3
+  itemTier: 0
+  uniqueItemID: 
+  isStackable: 0
+  itemDescription: 
+  inWorldVersion: {fileID: 7962422678318529570, guid: 8e20b8b09645f0245b949c8e8ab15b48,
+    type: 3}
+  _serializedItem: 
+  weaponType: 3
+  modelPrefab: {fileID: 8284755702633494759, guid: 8439d31e448d0304c855b8e0d4157f68,
+    type: 3}
+  isUnarmed: 0
+  isEquiped: 0
+  isBeingDisplayed: 0
+  metal: 0
+  weaponRange: 2.5
+  weaponMovesetID: 6
+  weaponAnimController: {fileID: 22100000, guid: 27165f7e9a559f1469bcb2b2557b8849,
+    type: 2}
+  sharpness: 100
+  weaponDamage: 10
+  baseStamina: 10
+  lightAttackMultiplier: 1.2
+  heavyAttackMultiplier: 1.5
+  gemSockets:
+  - {fileID: 0}
+  gemSocketItemID:
+  - 

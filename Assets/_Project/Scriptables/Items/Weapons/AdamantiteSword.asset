@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 43adda39df24f6648ae616d6d8655d56, type: 3}
+  m_Name: AdamantiteSword
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: b1b983bd4bea37b4abef606f4bfc9619, type: 3}
+  itemName: Adamantite Sword
+  itemID: 7
+  itemType: 3
+  itemTier: 4
+  uniqueItemID: 
+  isStackable: 0
+  itemDescription: 
+  inWorldVersion: {fileID: 1021590013742914158, guid: c9802c7f139e56b47b9321670bfbf116,
+    type: 3}
+  _serializedItem: 
+  weaponType: 0
+  modelPrefab: {fileID: 1021590013742914158, guid: 836fe2f924bbe8c4e91e7a0cdec8fd4f,
+    type: 3}
+  isUnarmed: 0
+  isEquiped: 0
+  isBeingDisplayed: 0
+  metal: 11
+  weaponRange: 1.7
+  weaponMovesetID: 7
+  weaponAnimController: {fileID: 22100000, guid: 0b1560a0e79b426458b46780ed0b7405,
+    type: 2}
+  sharpness: 100
+  weaponDamage: 25
+  baseStamina: 20
+  lightAttackMultiplier: 1
+  heavyAttackMultiplier: 1.5
+  gemSockets:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  gemSocketItemID:
+  - 
+  - 
+  - 

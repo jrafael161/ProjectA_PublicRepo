@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 296c2891239e72b4dbf9daa13f86d7fb, type: 3}
+  m_Name: Consumable_0
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 0}
+  itemName: Time Gem Shard
+  itemID: 0
+  itemType: 0
+  itemTier: 2
+  itemIdInInventory: 0
+  isStackable: 1
+  itemDescription: Seems like this shard of a Time gem holds some of the power from
+    the whole gem.
+  inWorldVersion: {fileID: 0}

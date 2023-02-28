@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bde1ae9f5a52d894291220706aa9968f, type: 3}
+  m_Name: Tin Ore
+  m_EditorClassIdentifier: 
+  itemIcon: {fileID: 21300000, guid: 93d4cf33d37d3004eaf8aeab33b4c254, type: 3}
+  itemName: Tin Ore
+  itemID: 2
+  itemType: 5
+  itemTier: 0
+  uniqueItemID: 
+  isStackable: 1
+  itemDescription: A piece of tin  ore, can be melted to use as a material for weapon
+    casting and forging.
+  inWorldVersion: {fileID: 1036867908479847570, guid: 6a21c22578a14d84e8fe117e8ed5194e,
+    type: 3}
+  _serializedItem: 
